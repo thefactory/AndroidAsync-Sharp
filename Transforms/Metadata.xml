@@ -7,7 +7,6 @@
   <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='CursorLoader']/method[@name='loadInBackground']" />
   -->
   <remove-node path="/api/package[@name='com.koushikdutta.async.util']/class[@name='FileCache']" />
-  <remove-node path="/api/package[@name='com.koushikdutta.async.future']/interface[@name='Future']" />
   <remove-node path="/api/package[@name='com.koushikdutta.async.future']/interface[@name='DependentFuture']" />
   <remove-node path="/api/package[@name='com.koushikdutta.async.future']/class[@name='TransformFuture']" />
   <remove-node path="/api/package[@name='com.koushikdutta.async.future']/class[@name='ConvertFuture']" />
